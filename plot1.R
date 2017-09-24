@@ -1,6 +1,6 @@
 rm(list = ls())
 #set working directory
-setwd("C:/Users/IBM_ADMIN/Documents/Coursera/DataScienceSpec/Rprog/C4")
+setwd("Place holder")
 getwd()
 if(!file.exists("data")) {
   dir.create("data")
